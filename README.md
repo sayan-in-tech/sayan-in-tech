@@ -1,7 +1,7 @@
 [![MasterHead](https://datasciencedistrict.nl/wp-content/uploads/2020/03/databanner.png)](https://sayan18012004.io)
 
 <h1 align="center">Hi 👋, I'm Sayan Ghosh</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate problem solver from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
