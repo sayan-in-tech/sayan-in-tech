@@ -98,13 +98,3 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
 </p>
-
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayan18012004&show_icons=true&locale=en" alt="sayan18012004" />
-</p>
-
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan18012004&show_icons=true&locale=en&layout=compact" alt="sayan18012004" />
-</p>
