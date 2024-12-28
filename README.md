@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **sayan18012004@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/drive/folders/1y2DB5IZP0qIwWJfmFAWE5PZ1Ao0MJhp_?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1RBDPiH0SUdEoJAZrbojL0DXAstiedNCi/edit?usp=drive_link&ouid=112163325239333995603&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
