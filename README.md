@@ -6,13 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
 - 🌱 I’m currently learning **NodeJs**
-
 - 💬 Ask me about **Computer Vision, NLP and Neural Networks**
-
 - 📫 How to reach me: **sayan18012004@gmail.com**
-
-- 🚀 Visit my Website: [Portfolio](https://sayan18012004.github.io/sayanghosh-portfolio/)
-
+- 🚀 Visit my Website: [Portfolio](https://sayan-in-tech.github.io/sayanghosh-portfolio/)
 - 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1RBDPiH0SUdEoJAZrbojL0DXAstiedNCi/edit?usp=drive_link&ouid=112163325239333995603&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
